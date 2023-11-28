@@ -1,0 +1,16 @@
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\entities\Role.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\UsersMicrosrviceApplication.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\service\UserServiceImpl.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\entities\User.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\repos\RoleRepository.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\security\SecParams.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\restcontrollers\UserRestController.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\security\JWTAuthorizationFilter.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\restcontrollers\MailController.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\service\MailService.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\security\MyUserDetailsService.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\security\SecurityConfig.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\service\UserService.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\repos\UserRepository.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\mailgest\mailGest.java
+C:\Users\chern\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\SpringMailConfigurationLast\src\main\java\com\samar\users\security\JWTAuthenticationFilter.java
